@@ -1,0 +1,10 @@
+C:\Users\Moises\source\repos\calculomedia\calculomedia\bin\Debug\calculomedia.exe.config
+C:\Users\Moises\source\repos\calculomedia\calculomedia\bin\Debug\calculomedia.exe
+C:\Users\Moises\source\repos\calculomedia\calculomedia\bin\Debug\calculomedia.pdb
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.csprojResolveAssemblyReference.cache
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.frmMedia.resources
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.Properties.Resources.resources
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.csproj.GenerateResource.Cache
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.exe
+C:\Users\Moises\source\repos\calculomedia\calculomedia\obj\Debug\calculomedia.pdb
